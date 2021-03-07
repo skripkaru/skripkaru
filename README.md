@@ -1,16 +1,11 @@
-### Hi there 👋
+### 👋 Hi. my name is **Evgeniy Skripkaru**!
+## I'm a beginner *Front-end developer* from Moscow.
+### Check my website [skripkaru.ru](https://skripkaru.ru/)
+### Technology stack:
+![HTML](https://img.shields.io/badge/-html-090909?style=social&logo=html5)
+![CSS](https://img.shields.io/badge/-css-090909?style=social&logo=css3)
+![JavaScript](https://img.shields.io/badge/-javascript-090909?style=social&logo=javascript)
 
-<!--
-**skripkaru/skripkaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Email: skripkaru.evgeniy@gmail.com
+### Instagram: @skripka.ru
+### Telegram: @skripkaru
