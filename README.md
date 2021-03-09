@@ -2,7 +2,7 @@
 ## I'm a *layout designer* from Moscow.
 
 ### Portfolio:
-[skripkaru.ru](https://skripkaru.ru/)
+👉 [skripkaru.ru](https://skripkaru.ru/)
 
 ### Skills:
 ![HTML](https://img.shields.io/badge/-html-090909?style=for-the-badge&logo=html5)
