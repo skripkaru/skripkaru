@@ -18,4 +18,4 @@
 ### 🌐 Instagram: @skripka.ru
 ### 🌐 Telegram: @skripkaru
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skripkaru)](https://github.com/skripkaru/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skripkaru&theme=dark&show_icons=true)](https://github.com/skripkaru/github-readme-stats)
