@@ -17,3 +17,5 @@
 ### 📧 Email: skripkaru.evgeniy@gmail.com
 ### 🌐 Instagram: @skripka.ru
 ### 🌐 Telegram: @skripkaru
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skripkaru)](https://github.com/skripkaru/github-readme-stats)
