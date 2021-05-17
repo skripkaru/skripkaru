@@ -1,21 +1,19 @@
-### 👋 Hi. my name is **Evgeniy Skripkaru**!
-## I'm a *layout designer* from Moscow.
+### <img src="https://raw.githubusercontent.com/extremecodetv/extremecodetv/master/wave.gif" width="25px"> Hi. my name is **Evgeniy Skripkaru**!
+## I'm a beginner *frontend developer* from Moscow.
 
-### Portfolio:
+## Portfolio:
 👉 [skripkaru.ru](https://skripkaru.ru/)
 
-### Skills:
+## Skills:
 ![HTML](https://img.shields.io/badge/-html-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-javascript-090909?style=for-the-badge&logo=javascript)
-![SASS](https://img.shields.io/badge/-sass-090909?style=for-the-badge&logo=sass)
-![JQuery](https://img.shields.io/badge/-jquery-090909?style=for-the-badge&logo=jquery)
-![Bootstrap](https://img.shields.io/badge/-bootstrap-090909?style=for-the-badge&logo=bootstrap)
-![Gulp](https://img.shields.io/badge/-gulp-090909?style=for-the-badge&logo=gulp)
+![Webpack](https://img.shields.io/badge/-gulp-090909?style=for-the-badge&logo=webpack)
 
-### Contacts:
-### 📧 Email: skripkaru.evgeniy@gmail.com
-### 🌐 Instagram: @skripka.ru
-### 🌐 Telegram: @skripkaru
+## Contacts:
+📧 Email: skripkaru.evgeniy@gmail.com
+🌐 Instagram: @skripka.ru
+🌐 Telegram: @skripkaru
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skripkaru&theme=chartreuse-dark&show_icons=true)](https://github.com/skripkaru/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skripkaru&theme=react&layout=compact&show_icons=true)](https://github.com/skripkaru/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skripkaru&theme=react&layout=compact)](https://github.com/skripkaru/github-readme-stats)
