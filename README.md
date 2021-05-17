@@ -16,5 +16,3 @@ I'm Evgeniy Skripkaru, a beginner frontend developer from Moscow.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skripkaru&theme=react&show_icons=true)](https://github.com/skripkaru/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skripkaru&theme=react)](https://github.com/skripkaru/github-readme-stats)
