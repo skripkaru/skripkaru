@@ -1,26 +1,31 @@
-### Hi there! 👋
-I'm Evgeniy Skripkaru, a beginner frontend developer from Moscow.
+<h1>Hi there! 👋</h1>
 
-**🔧 Technologies**
+<p>I'm <a href="https://skripkaru.ru/">Evgeniy Skripkaru</a>, a beginner frontend developer from Moscow.</p>
 
-![JavaScript](https://img.shields.io/badge/-javascript-090909?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/-html-090909?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=css3)
-![Webpack](https://img.shields.io/badge/-webpack-090909?style=for-the-badge&logo=webpack)
+<h3>🔧 Technologies</h3>
 
-**📮 Contacts**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Webpack-1C78C0?style=for-the-badge&logo=webpack&logoColor=white"/>
+</p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://skripkaru.ru/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='github' height='40'>](https://t.me/skripkaru)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/skripka.ru/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/skripkaru)
+<h3>📮 Contacts</h3>
 
-**⚡ Most Used Languages:**
+<p>
+  <a href="mailto:skripkaru.evgeniy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://t.me/skripkaru">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/skripka.ru/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skripkaru&theme=react&hide_title=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-**📈 GitHub Stats:**
+<h3>📈 GitHub Stats</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skripkaru&theme=react&hide_title=true&show_icons=true)](https://github.com/skripkaru/github-readme-stats)
-
-
