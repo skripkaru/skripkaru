@@ -1,6 +1,6 @@
 <h1>Hi there! 👋</h1>
 
-<p>I'm <a href="https://skripkaru.ru/">Evgeniy Skripkaru</a>, a beginner frontend developer from Moscow.</p>
+<p>I'm Evgeniy Skripkaru, a beginner frontend developer from Moscow.</p>
 
 <h3>🔧 Technologies</h3>
 
@@ -12,7 +12,11 @@
   <img src="https://img.shields.io/badge/Webpack-1C78C0?style=for-the-badge&logo=webpack&logoColor=white"/>
 </p>
 
-<h3>📮 Contacts</h3>
+<h3>🌐 Portfolio</h3>
+
+<a href="https://skripkaru.ru/">https://skripkaru.ru/</a>
+
+<h3>📫 Contacts</h3>
 
 <p>
   <a href="mailto:skripkaru.evgeniy@gmail.com">
