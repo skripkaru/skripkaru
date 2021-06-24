@@ -5,20 +5,19 @@
 <h3>🔧 Technologies</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/Webpack-1C78C0?style=for-the-badge&logo=webpack&logoColor=white"/>
 </p>
 
-<h3>🌐 Portfolio</h3>
-
-<a href="https://skripkaru.ru/">https://skripkaru.ru/</a>
-
 <h3>📫 Contacts</h3>
 
 <p>
+   <a href="https://skripkaru.ru/">
+    <img src="https://img.shields.io/badge/Website-FF6F00?style=for-the-badge&logo=website&logoColor=white"/>
+  </a>
   <a href="mailto:skripkaru.evgeniy@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
