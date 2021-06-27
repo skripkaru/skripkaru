@@ -1,6 +1,6 @@
 <h1>Hi there! 👋</h1>
 
-<p>I'm Evgeniy Skripkaru, a beginner frontend developer from Moscow.</p>
+<p>I'm Evgeniy Skripkaru, a front-end developer from Moscow.</p>
 
 <h3>🔧 Technologies</h3>
 
