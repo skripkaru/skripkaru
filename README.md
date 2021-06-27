@@ -17,7 +17,7 @@
 
 <p>
    <a href="https://skripkaru.ru/">
-    <img src="https://img.shields.io/badge/Website-FF6F00?style=for-the-badge&logo=website&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Website-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"/>
   </a>
   <a href="mailto:skripkaru.evgeniy@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
